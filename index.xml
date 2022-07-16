@@ -6,16 +6,15 @@
     <description>Recent content on econf</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <copyright>© 2022 David Roman</copyright><atom:link href="https://risotto.joeroe.io/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2022 David Roman</copyright>
+    <lastBuildDate>Sat, 16 Jul 2022 16:31:35 +0200</lastBuildDate><atom:link href="https://risotto.joeroe.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
-      <link>https://risotto.joeroe.io/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <title></title>
+      <link>https://risotto.joeroe.io/cfp/</link>
+      <pubDate>Sat, 16 Jul 2022 16:31:35 +0200</pubDate>
       
-      <guid>https://risotto.joeroe.io/about/</guid>
-      <description>La econf es la primera conferencia sobre Gentoo que se hace en España.
-El objetivo es compartir nuestros conocimientos y nuestro interés por esta distribución. Se llevarán a cabo varias charlas/talleres de distintas temáticas relacionadas. Por ahora están confirmados las siguientes charlas:
-Iniciación a los ebuilds: sobre como escribir ebuilds y como mandar PR a Gentoo Compilaciones cruzada para maquinas ligeras: sobre distintas técnicas para optimizar la compilación en máquinas ligeras.</description>
+      <guid>https://risotto.joeroe.io/cfp/</guid>
+      <description>CFP abierta hasta el 1 de agosto. Cualquier charla, incluso aunque no tenga que ver estrictamente con Gentoo; desarrollo (e,g: rust, erlang) sobre seguridad, de sistemas o cualquier frikada es aceptable. Además como vamos escasos de tiempo y es la primera conferencia de este tipo que se hace no es requisito tener un paper como tal. Cualquier persona que le apetezca hablar sobre uno de esos temas es bienvenida aún cuando aún no tenga nada que mostrar sobre ese topic.</description>
     </item>
     
   </channel>
