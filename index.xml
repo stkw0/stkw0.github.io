@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>econf</title>
-    <link>https://risotto.joeroe.io/</link>
+    <link>https://econf.site/</link>
     <description>Recent content on econf</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>© 2022 David Roman</copyright>
-    <lastBuildDate>Sat, 16 Jul 2022 16:31:35 +0200</lastBuildDate><atom:link href="https://risotto.joeroe.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Jul 2022 16:31:35 +0200</lastBuildDate><atom:link href="https://econf.site/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://risotto.joeroe.io/cfp/</link>
+      <link>https://econf.site/cfp/</link>
       <pubDate>Sat, 16 Jul 2022 16:31:35 +0200</pubDate>
       
-      <guid>https://risotto.joeroe.io/cfp/</guid>
+      <guid>https://econf.site/cfp/</guid>
       <description>CFP abierta hasta el 1 de agosto. Cualquier charla, incluso aunque no tenga que ver estrictamente con Gentoo; desarrollo (e,g: rust, erlang) sobre seguridad, de sistemas o cualquier frikada es aceptable. Además como vamos escasos de tiempo y es la primera conferencia de este tipo que se hace no es requisito tener un paper como tal. Cualquier persona que le apetezca hablar sobre uno de esos temas es bienvenida aún cuando aún no tenga nada que mostrar sobre ese topic.</description>
     </item>
     
