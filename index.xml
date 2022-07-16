@@ -7,5 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>© 2022 David Roman</copyright><atom:link href="https://risotto.joeroe.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://risotto.joeroe.io/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://risotto.joeroe.io/about/</guid>
+      <description>La econf es la primera conferencia sobre Gentoo que se hace en España.
+El objetivo es compartir nuestros conocimientos y nuestro interés por esta distribución. Se llevarán a cabo varias charlas/talleres de distintas temáticas relacionadas. Por ahora están confirmados las siguientes charlas:
+Iniciación a los ebuilds: sobre como escribir ebuilds y como mandar PR a Gentoo Compilaciones cruzada para maquinas ligeras: sobre distintas técnicas para optimizar la compilación en máquinas ligeras.</description>
+    </item>
+    
   </channel>
 </rss>
