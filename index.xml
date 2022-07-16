@@ -9,12 +9,12 @@
     <copyright>© 2022 David Roman</copyright>
     <lastBuildDate>Sat, 16 Jul 2022 16:31:35 +0200</lastBuildDate><atom:link href="https://econf.site/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
+      <title>CFP</title>
       <link>https://econf.site/cfp/</link>
       <pubDate>Sat, 16 Jul 2022 16:31:35 +0200</pubDate>
       
       <guid>https://econf.site/cfp/</guid>
-      <description>CFP abierta hasta el 1 de agosto. Cualquier charla, incluso aunque no tenga que ver estrictamente con Gentoo; desarrollo (e,g: rust, erlang) sobre seguridad, de sistemas o cualquier frikada es aceptable. Además como vamos escasos de tiempo y es la primera conferencia de este tipo que se hace no es requisito tener un paper como tal. Cualquier persona que le apetezca hablar sobre uno de esos temas es bienvenida aún cuando aún no tenga nada que mostrar sobre ese topic.</description>
+      <description>CFP abierto hasta el 1 de agosto. Cualquier charla, incluso aunque no tenga que ver estrictamente con Gentoo; desarrollo (e,g: rust, erlang) sobre seguridad, de sistemas o cualquier frikada es aceptable. Además como vamos escasos de tiempo y es la primera conferencia de este tipo que se hace no es requisito tener un paper como tal. Cualquier persona que le apetezca hablar sobre uno de esos temas es bienvenida aún cuando aún no tenga nada que mostrar sobre ese topic.</description>
     </item>
     
   </channel>
